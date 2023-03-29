@@ -1,0 +1,10 @@
+name: Custom-Reports
+main: me.sanhak.venixcoding.customreports.main.Main
+version: 0.1
+commands:
+  crreload:
+  crremove:
+  cradd:
+  crlist:
+  report:
+  crhelp:
